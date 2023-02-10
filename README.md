@@ -3,7 +3,7 @@
 
 ## Datos Generales
 
-Carrera: Ingienerías En Ciencas De La Computación
+Carrera: Ingienerías En Ciencias De La Computación
 
 Materia: Fundamentos De Bases De Datos
 
